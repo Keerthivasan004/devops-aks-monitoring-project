@@ -3,7 +3,7 @@ name: CI-CD to AKS
 on:
   push:
     branches:
-      - main
+      - master
 
 env:
   ACR_NAME: devopsacr12345
