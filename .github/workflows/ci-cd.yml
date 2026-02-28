@@ -7,7 +7,7 @@ on:
 
 env:
   ACR_NAME: devopsacr12345
-  ACR_LOGIN_SERVER: devopsaks-0ajt97n0.hcp.centralindia.azmk8s.io
+  ACR_LOGIN_SERVER: devopsacr12345.azurecr.io
   IMAGE_NAME: devopsapp
   RESOURCE_GROUP: devops-rg
   AKS_CLUSTER: devops-aks
